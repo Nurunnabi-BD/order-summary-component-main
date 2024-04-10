@@ -84,18 +84,16 @@ body{
 .music a:hover{
     text-decoration: none;
 }
-.btn{
-    text-decoration: none;
-    color: var(--Very-pale-blue);
-    font-weight: 700;
-    font-size: 1.6rem;
-}
 .Payment{
     background-color: var(--Bright-blue);
     padding: 1.5rem 0;
     border-radius: 0.8rem;
     box-shadow: 7px 10px 14px 9px rgb(220 223 225);
     border: none;
+    text-decoration: none;
+    color: var(--Very-pale-blue);
+    font-weight: 700;
+    font-size: 1.6rem;
 }
 .Payment:hover{
     background-color: var(--Desaturated-blue);
